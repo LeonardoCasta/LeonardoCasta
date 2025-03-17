@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">Software developer from Italy</h3>
+<h3 align="center">Italian Software developer Living in Canada</h3>
 
 - 📫 How to reach me **leonardocastagnaro@icloud.com**
 
